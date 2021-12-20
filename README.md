@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Bahram Jahanshahi
 - 👀  I’m interested in cloud-native and distributed software development.
-- 🌱  I’m currently learning react.js and AWS cloud
+- 🌱  I’m currently learning how to architect and implement a cloud-native application and DevOps best practices.
 - 💞️  I’m looking to collaborate on a distributed system development
 - 📫  you can send me an email via bahram.jahanshahi@gmail.com or [linkedin](https://linkedin.com/in/bahram-jahanshahi)
 
